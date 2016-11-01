@@ -1,0 +1,26 @@
+[ 2016-10-26T15:28:38+08:00 ] 101.226.33.202 /singcms/index.php/home/index/getWebAccessToken
+ERR: 1048:Column 'id' cannot be null
+ [ SQL语句 ] : INSERT INTO `yingchao_user_wx` (`id`) VALUES (NULL)
+
+[ 2016-10-26T19:56:34+08:00 ] 110.64.69.62 /singcms/index.php/home/index/getWebAccessToken?code=041Z8Pqm1Ug8Mk06Rtpm1T6Iqm1Z8Pq9&state=64
+ERR: 1062:Duplicate entry '64' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `yingchao_user_wx` (`id`) VALUES ('64')
+
+[ 2016-10-26T20:48:12+08:00 ] 110.64.69.64 /singcms/index.php/home/user/edit
+ERR: 模板不存在:./Application/Home/View/User/edit.html
+
+[ 2016-10-26T20:48:20+08:00 ] 110.64.69.62 /singcms/index.php/home/user/edit
+ERR: 模板不存在:./Application/Home/View/User/edit.html
+
+[ 2016-10-26T20:49:19+08:00 ] 110.64.69.64 /singcms/index.php/home/user/edit
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/userlist/edit.html.html
+
+[ 2016-10-26T20:49:50+08:00 ] 110.64.69.62 /singcms/index.php/home/user/edit
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/userlist/edit.html.html
+
+[ 2016-10-26T20:50:07+08:00 ] 110.64.69.64 /singcms/index.php/home/user/edit
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/userlist/edit.html.html
+
+[ 2016-10-26T20:50:15+08:00 ] 110.64.69.62 /singcms/index.php/home/user/edit
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/userlist/edit.html.html
+

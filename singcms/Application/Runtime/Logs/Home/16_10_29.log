@@ -1,0 +1,105 @@
+[ 2016-10-29T22:18:40+08:00 ] 14.17.11.196 /singcms/index.php?m=home&c=index&a=showsignup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001498s ]
+
+[ 2016-10-29T22:18:40+08:00 ] 58.247.206.148 /singcms/index.php?m=home&signature=7a49766ea2f5f86f4c08403c8bce94e617a65a1c&timestamp=1477750719&nonce=446134286&openid=okIYdw_B02wN0fD6kQgcOAqkCMfA&encrypt_type=aes&msg_signature=52b0ff72715d3bac6c878d9fdb2c074064a69549
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000922s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [8] Undefined index: access_token /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 247 行.
+NOTIC: [2] curl_error(): 29 is not a valid cURL handle resource /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 193 行.
+NOTIC: [8] Array to string conversion /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 260 行.
+NOTIC: [2] curl_error(): 30 is not a valid cURL handle resource /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 193 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000156s ]
+
+[ 2016-10-29T22:18:40+08:00 ] 14.17.11.196 /singcms/index.php/home/index/checkIsSignUp?code=001HvoED1Ll4N10XUoDD1BFmED1HvoE0&state=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+SQL: SHOW COLUMNS FROM `yingchao_user_wx` [ RunTime:0.0006s ]
+NOTIC: [2] curl_error(): 6 is not a valid cURL handle resource /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 193 行.
+SQL: SELECT * FROM `yingchao_user_wx` WHERE ( openid='okIYdw_B02wN0fD6kQgcOAqkCMfA' ) LIMIT 1   [ RunTime:0.0779s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007921s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000268s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000058s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
+[ 2016-10-29T22:18:44+08:00 ] 14.17.11.196 /singcms/index.php/home/index/userList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: info /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 412 行.
+SQL: SHOW COLUMNS FROM `yingchao_user_true` [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `yingchao_user_wx` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yingchao_user_true` WHERE ( id="60" ) LIMIT 1   [ RunTime:0.0222s ]
+SQL: SELECT * FROM `yingchao_user_wx` WHERE ( id="60" ) LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009892s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009952s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2016-10-29T22:18:55+08:00 ] 101.226.66.174 /singcms/index.php/home/index/checkIsSignUp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: code /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 336 行.
+SQL: SHOW COLUMNS FROM `yingchao_user_wx` [ RunTime:0.0006s ]
+NOTIC: [2] curl_error(): 2 is not a valid cURL handle resource /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 193 行.
+NOTIC: [8] Undefined index: openid /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 340 行.
+SQL: SELECT * FROM `yingchao_user_wx` WHERE ( openid='' ) LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002530s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+

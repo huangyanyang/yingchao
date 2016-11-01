@@ -1,0 +1,38 @@
+[ 2016-10-24T09:00:05+08:00 ] 183.41.0.72 /singcms/index.php?m=admin&c=login&a=check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+SQL: SHOW COLUMNS FROM `yingchao_admin_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yingchao_admin_user` WHERE ( username="yingchapfuwu" ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-10-24T09:00:35+08:00 ] 183.41.0.72 /singcms/index.php?m=admin&c=login&a=check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+SQL: SHOW COLUMNS FROM `yingchao_admin_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yingchao_admin_user` WHERE ( username="yingchaofuwu" ) LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-10-24T16:22:53+08:00 ] 14.147.181.195 /singcms/admin.php/admin/index/signin.css
+ERR: 非法操作:signin.css
+
+[ 2016-10-24T16:23:07+08:00 ] 14.147.181.195 /singcms/index.php?m=admin&c=login&a=check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+SQL: SHOW COLUMNS FROM `yingchao_admin_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yingchao_admin_user` WHERE ( username="yingchaofuwu" ) LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-10-24T17:24:24+08:00 ] 14.147.181.195 /singcms/index.php?m=admin&c=login&a=check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+SQL: SHOW COLUMNS FROM `yingchao_admin_user` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `yingchao_admin_user` WHERE ( username="yingchaofuwu" ) LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-10-24T17:40:47+08:00 ] 14.17.11.196 /singcms/index.php?m=admin&c=login&a=check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+SQL: SHOW COLUMNS FROM `yingchao_admin_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `yingchao_admin_user` WHERE ( username="yingchaofuwu" ) LIMIT 1   [ RunTime:0.0002s ]
+

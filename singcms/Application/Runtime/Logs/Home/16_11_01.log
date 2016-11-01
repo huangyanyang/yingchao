@@ -1,0 +1,23 @@
+[ 2016-11-01T19:57:51+08:00 ] 110.64.69.64 /singcms/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: nonce /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined index: timestamp /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 26 行.
+NOTIC: [8] Undefined index: echostr /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 27 行.
+NOTIC: [8] Undefined index: signature /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 28 行.
+NOTIC: [8] Undefined index: access_token /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 247 行.
+NOTIC: [2] curl_error(): 27 is not a valid cURL handle resource /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 193 行.
+NOTIC: [8] Array to string conversion /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 260 行.
+NOTIC: [2] curl_error(): 28 is not a valid cURL handle resource /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 193 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 56 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object /data/wwwroot/bjx.cheerskeji.com/singcms/Application/Home/Controller/IndexController.class.php 第 102 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001525s ]
+

@@ -1,0 +1,2238 @@
+[ 2016-10-14T15:08:16+08:00 ] 183.43.32.200 /singcms/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003030s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000709s ]
+
+[ 2016-10-14T15:39:49+08:00 ] 58.247.206.156 /singcms/index.php?signature=68bd4805c41cae21208eb50f8b459391aff747a7&echostr=6237122719574576103&timestamp=1476430789&nonce=2097758475
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001962s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000055s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000074s ]
+
+[ 2016-10-14T15:42:49+08:00 ] 101.226.33.200 /singcms/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000076s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002075s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002106s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2016-10-14T15:53:02+08:00 ] 101.226.103.60 /singcms/index.php?signature=9cfb9466005f93bf9e130d4c459d2c30c92b0157&echostr=3278435150884802270&timestamp=1476431582&nonce=1102948348
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000038s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2016-10-14T15:53:57+08:00 ] 58.247.206.153 /singcms/index.php?signature=968cdd9a7b58ed386b92319db604da3ba296e35a&echostr=5792660967267475287&timestamp=1476431637&nonce=714076615
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000115s ]
+
+[ 2016-10-14T15:54:41+08:00 ] 140.207.54.75 /singcms/index.php?home&signature=24ac154d797bfb7a17df4c060d86940b07221296&echostr=1916501807805415383&timestamp=1476431681&nonce=1569256335
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+
+[ 2016-10-14T15:57:41+08:00 ] 101.226.33.219 /singcms/index.php?home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined index: timestamp /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 6 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: signature /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 9 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000055s ]
+
+[ 2016-10-14T18:19:51+08:00 ] 182.254.86.148 /singcms/index.php?home&signature=f5aa6f4cae8abdf9439c1323c80ee9288f4907a1&timestamp=1476440391&nonce=843852348&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=3c9e86a35a4b7421d55b8ed99eb793d1c2bc647f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+
+[ 2016-10-14T18:19:58+08:00 ] 182.254.86.158 /singcms/index.php?home&signature=c5ab29df4bef56292776c5f340c964ec8534a0d2&timestamp=1476440398&nonce=1817004925&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=17263a5e61a4ea1202db9213fe9a9bd52342a4df
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+
+[ 2016-10-14T18:21:09+08:00 ] 182.254.86.153 /singcms/index.php?home&signature=8ea73099ca4b53df9a76c38b4bdd24863592f9c3&timestamp=1476440469&nonce=138024691&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=b5e65ae95e9ea8dcc1486185f43c4030c04b7e0d
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+
+[ 2016-10-14T18:21:43+08:00 ] 182.254.86.148 /singcms/index.php?home&signature=3f3e21f2d5d36a10156a2a2405e0317162434408&timestamp=1476440503&nonce=1858067381&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=2db0433ace80707af926d9947a24b7efe56e7b96
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+
+[ 2016-10-14T18:21:55+08:00 ] 182.254.86.148 /singcms/index.php?home&signature=95515f88589ddf4e515a28eb7054da1550805180&timestamp=1476440515&nonce=1598812284&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=d3d09e2ec64cdbfc122935ef3dba0a3f955a2c59
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+
+[ 2016-10-14T18:49:37+08:00 ] 101.226.103.63 /singcms/index.php?home&signature=12fafdd4df5c65622cea55633c3a0ba4c52e716b&echostr=2058843852438617935&timestamp=1476442177&nonce=1351892289
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+
+[ 2016-10-14T18:51:19+08:00 ] 58.247.206.151 /singcms/index.php?home&signature=d94578e1ce44c8610eff91b3f509e3893caf9fb0&echostr=3137504084030717687&timestamp=1476442279&nonce=249086598
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+
+[ 2016-10-14T18:53:26+08:00 ] 58.247.206.145 /singcms/index.php?home&signature=6553ee8d2e49548266a8057aabc1fb8afadf7491&echostr=7012058914344532983&timestamp=1476442406&nonce=1319286018
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+
+[ 2016-10-14T18:54:08+08:00 ] 140.207.54.75 /singcms/index.php?home&signature=9b2b2f878b1b460ed0c1d6fae2438063d00a50dd&echostr=2536873476813209432&timestamp=1476442448&nonce=939848743
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+
+[ 2016-10-14T18:55:22+08:00 ] 58.247.206.156 /singcms/index.php?home&signature=e595a030cc7602f8f560f58fab6add1f0095e031&echostr=5716480148274002362&timestamp=1476442522&nonce=1925361672
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+
+[ 2016-10-14T18:55:57+08:00 ] 58.247.206.146 /singcms/index.php?home&signature=46b471ee8db2102ff829af9f7fb90f56ec31f494&echostr=2170717189258460093&timestamp=1476442557&nonce=959440902
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 238 行.
+NOTIC: [2] curl_error(): 2 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 252 行.
+NOTIC: [2] curl_error(): 3 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 50 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 67 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 97 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000105s ]
+
+[ 2016-10-14T18:56:04+08:00 ] 140.207.54.75 /singcms/index.php?home&signature=4b8ea31f9e08a8b76b108867177a5af561e426e2&echostr=7147825291608850407&timestamp=1476442563&nonce=461111773
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 238 行.
+NOTIC: [2] curl_error(): 1 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 252 行.
+NOTIC: [2] curl_error(): 2 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 50 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 67 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 97 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000093s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000130s ]
+
+[ 2016-10-14T18:56:13+08:00 ] 101.226.103.63 /singcms/index.php?home&signature=3b28dab9e68657eb46bf6d9741fca4445f3758d6&echostr=5912232242637749725&timestamp=1476442573&nonce=2069308167
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+
+[ 2016-10-14T18:56:29+08:00 ] 182.254.86.148 /singcms/index.php?home&signature=403a005881b8c2686ea48d3fb3e689aaef58aa89&timestamp=1476442589&nonce=1135469132&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=0a49add9f1f5a02f1d172e0c7062d126eb08898a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T18:56:45+08:00 ] 182.254.86.148 /singcms/index.php?home&signature=18d06df5f373a435d515409e581b5157bb79063d&timestamp=1476442604&nonce=576030547&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=55a8545a9f015d85925e6b7be3cd4a0129db90c5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 238 行.
+NOTIC: [2] curl_error(): 1 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 252 行.
+NOTIC: [2] curl_error(): 2 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000097s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000145s ]
+
+[ 2016-10-14T18:56:52+08:00 ] 182.254.86.143 /singcms/index.php?home&signature=45019225cf6c6634300563dfdd541d67ab059e1d&timestamp=1476442612&nonce=2000109085&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=a07464da7c762c766209569c9c133ca771fbb8cf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T18:57:16+08:00 ] 182.254.86.148 /singcms/index.php?home&signature=722d082fd631ec1ed579e15999b8dbccfcbef919&timestamp=1476442635&nonce=473657100&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=0bc461fa32f492c6f8641baf98a0c149307d1666
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 238 行.
+NOTIC: [2] curl_error(): 1 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 252 行.
+NOTIC: [2] curl_error(): 2 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000110s ]
+
+[ 2016-10-14T18:57:23+08:00 ] 182.254.86.153 /singcms/index.php?home&signature=b97e6703ae9126f488845918f0959567afb7854b&timestamp=1476442643&nonce=103796892&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=0ba9b84dfcb3f162ebac63c9fdcb864766e80c5f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T18:58:40+08:00 ] 140.207.54.76 /singcms/index.php?home&signature=22adda9bdcbb1613719ac1f445bdcd8e056d3029&echostr=58352457967452133&timestamp=1476442720&nonce=1259451691
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+
+[ 2016-10-14T18:58:53+08:00 ] 182.254.86.143 /singcms/index.php?home&signature=8f16843412219fdc92524337bf1eb0dcfe7e3685&timestamp=1476442733&nonce=1565467503&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=19a7de4b420a8a813ec02784a0b838b4079da205
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T18:59:07+08:00 ] 182.254.86.158 /singcms/index.php?home&signature=06967960df728d4e836bcf3cd48f8d0c8b9ab726&timestamp=1476442747&nonce=1911135552&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=8f2f9eacf7fb144d77488df4d39945df26e3b96a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T18:59:18+08:00 ] 182.254.86.148 /singcms/index.php?home&signature=3eb143ddbd081344e22313a7ebb11ec792730576&timestamp=1476442757&nonce=2116311403&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=cbe12bd5bad306d3b15fb4d1ed8ceac758f77bea
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T19:00:48+08:00 ] 101.226.103.69 /singcms/index.php?home&signature=b889ba2211120ead2a647f33b1fcab8641ece28c&echostr=223934662037323743&timestamp=1476442847&nonce=988254235
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 238 行.
+NOTIC: [2] curl_error(): 2 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 252 行.
+NOTIC: [2] curl_error(): 3 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 50 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 67 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 97 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000166s ]
+
+[ 2016-10-14T19:00:52+08:00 ] 58.247.206.150 /singcms/index.php?home&signature=65ec6976818d3ca0d8aabee77c63bcc91ad6bf17&echostr=6293024914480431077&timestamp=1476442852&nonce=1428682578
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+
+[ 2016-10-14T19:01:02+08:00 ] 182.254.86.158 /singcms/index.php?home&signature=f81cb17900e69e92be8bcf7170c3c7c9ca342817&timestamp=1476442861&nonce=947958340&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=9bbbc8134dc2bfe970139dcc632cfd5a931d08b5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 238 行.
+NOTIC: [2] curl_error(): 1 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 252 行.
+NOTIC: [2] curl_error(): 2 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2016-10-14T19:01:12+08:00 ] 182.254.86.148 /singcms/index.php?home&signature=7636706633111c7469a4aba80af8a49bc150bdb1&timestamp=1476442871&nonce=563350028&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=3b2cf34a89ea37c49d58c1f097091e75c6cbb85a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 238 行.
+NOTIC: [2] curl_error(): 1 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 252 行.
+NOTIC: [2] curl_error(): 2 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000112s ]
+
+[ 2016-10-14T19:01:21+08:00 ] 182.254.86.148 /singcms/index.php?home&signature=fbfc491e96a669fc065737054669c87d9c273f98&timestamp=1476442880&nonce=756756280&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=0fabc040d7db449a906c91528dedaa6e9de63cc9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 238 行.
+NOTIC: [2] curl_error(): 1 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 252 行.
+NOTIC: [2] curl_error(): 2 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000101s ]
+
+[ 2016-10-14T19:01:25+08:00 ] 182.254.86.153 /singcms/index.php?home&signature=6f8e5407e86abede965371686843e4c865edc1bc&timestamp=1476442884&nonce=691387722&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=a6e70b56a535e945fc27a024e35556e90dc641c7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 238 行.
+NOTIC: [2] curl_error(): 1 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 252 行.
+NOTIC: [2] curl_error(): 2 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2016-10-14T19:39:18+08:00 ] 183.6.159.231 /singcms/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 22 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: signature /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 24 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 238 行.
+NOTIC: [2] curl_error(): 2 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 252 行.
+NOTIC: [2] curl_error(): 3 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 50 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 67 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 97 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
+[ 2016-10-14T19:40:23+08:00 ] 183.6.159.231 /singcms/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 22 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: signature /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 24 行.
+NOTIC: [2] curl_error(): 1 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 50 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 67 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 97 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000100s ]
+
+[ 2016-10-14T19:40:29+08:00 ] 183.6.159.64 /singcms/index.php/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 20 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 22 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: signature /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 24 行.
+NOTIC: [2] curl_error(): 1 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 50 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 67 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 97 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000114s ]
+
+[ 2016-10-14T19:40:44+08:00 ] 183.6.159.231 /singcms/index.php/home/index/sigup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+ERR: 非法操作:sigup
+
+[ 2016-10-14T19:41:18+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000955s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000984s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000044s ]
+
+[ 2016-10-14T19:43:13+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000969s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000995s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2016-10-14T19:43:57+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000936s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000043s ]
+
+[ 2016-10-14T19:44:26+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001216s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001243s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000043s ]
+
+[ 2016-10-14T19:45:50+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000896s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000042s ]
+
+[ 2016-10-14T19:45:50+08:00 ] 183.6.159.64 /singcms/index.php/home/index/10.104.182.27/singcms/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+ERR: 非法操作:10.104.182.27
+
+[ 2016-10-14T19:47:32+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001199s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001258s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000047s ]
+
+[ 2016-10-14T19:47:50+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000832s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000860s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000040s ]
+
+[ 2016-10-14T19:47:56+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000058s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001147s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001194s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000042s ]
+
+[ 2016-10-14T19:48:18+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000915s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2016-10-14T19:48:20+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000862s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000890s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000039s ]
+
+[ 2016-10-14T20:03:22+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001484s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001510s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000040s ]
+
+[ 2016-10-14T20:03:42+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007159s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000045s ]
+
+[ 2016-10-14T20:04:08+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001338s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001366s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2016-10-14T20:06:00+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006082s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006114s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000054s ]
+
+[ 2016-10-14T20:07:01+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001712s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001748s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000048s ]
+
+[ 2016-10-14T20:08:19+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001378s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000042s ]
+
+[ 2016-10-14T20:09:56+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001402s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000043s ]
+
+[ 2016-10-14T20:11:10+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000073s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001350s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001378s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000040s ]
+
+[ 2016-10-14T20:13:42+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005245s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005280s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000044s ]
+
+[ 2016-10-14T20:14:39+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002594s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2016-10-14T20:15:20+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001414s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000042s ]
+
+[ 2016-10-14T20:15:37+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001317s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001346s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2016-10-14T20:16:26+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001339s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001366s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000043s ]
+
+[ 2016-10-14T20:16:26+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001357s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001385s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000036s ]
+
+[ 2016-10-14T20:16:45+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001320s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001348s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000048s ]
+
+[ 2016-10-14T20:16:46+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001268s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001294s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000045s ]
+
+[ 2016-10-14T20:16:50+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001351s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001379s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000039s ]
+
+[ 2016-10-14T20:17:09+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001545s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001581s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2016-10-14T20:18:48+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001399s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001429s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000042s ]
+
+[ 2016-10-14T20:18:50+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001403s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001431s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000022s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2016-10-14T20:18:56+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001455s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2016-10-14T20:21:04+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001421s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001449s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000083s ]
+
+[ 2016-10-14T20:21:17+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001381s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001409s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000046s ]
+
+[ 2016-10-14T20:23:00+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001365s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001392s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000080s ]
+
+[ 2016-10-14T20:27:19+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001460s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001489s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000056s ]
+
+[ 2016-10-14T20:27:19+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001342s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001368s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000058s ]
+
+[ 2016-10-14T20:28:33+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001533s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001560s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000044s ]
+
+[ 2016-10-14T20:28:48+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000106s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000067s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005356s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005395s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000054s ]
+
+[ 2016-10-14T20:29:08+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002091s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002129s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+
+[ 2016-10-14T20:29:09+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001406s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001434s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000037s ]
+
+[ 2016-10-14T20:29:14+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001506s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000044s ]
+
+[ 2016-10-14T20:29:34+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001529s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2016-10-14T20:29:35+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001811s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2016-10-14T20:29:35+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002628s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002673s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000058s ]
+
+[ 2016-10-14T20:29:59+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001650s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000064s ]
+
+[ 2016-10-14T20:30:39+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001453s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2016-10-14T20:30:40+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000053s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001391s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000038s ]
+
+[ 2016-10-14T20:30:40+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001360s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001387s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000039s ]
+
+[ 2016-10-14T20:30:40+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001350s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001377s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000037s ]
+
+[ 2016-10-14T20:30:46+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001490s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2016-10-14T20:30:47+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001377s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000037s ]
+
+[ 2016-10-14T20:30:52+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001383s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001410s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2016-10-14T20:30:53+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001326s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001354s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000039s ]
+
+[ 2016-10-14T20:32:41+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001799s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001846s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000044s ]
+
+[ 2016-10-14T20:32:42+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001358s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000036s ]
+
+[ 2016-10-14T20:33:34+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001364s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001391s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000045s ]
+
+[ 2016-10-14T20:33:57+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001845s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001880s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2016-10-14T20:35:32+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001410s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001438s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000044s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000063s ]
+
+[ 2016-10-14T20:35:42+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000051s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001398s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001425s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000043s ]
+
+[ 2016-10-14T20:36:32+08:00 ] 58.247.206.140 /singcms/index.php?home&signature=1959339bcbc9b79c2a7acf25e61450e3c68c170f&echostr=8571685118618302426&timestamp=1476448592&nonce=118210190
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+
+[ 2016-10-14T20:36:52+08:00 ] 182.254.86.153 /singcms/index.php?home&signature=73c52f111592c35c14ef24b42f72f47955b81565&timestamp=1476448612&nonce=2096004949&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=3aaf3ece776e303d2cc04d74bdc1db5cd19a772f
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T20:37:11+08:00 ] 182.254.86.143 /singcms/index.php?home&signature=5e9ee6d61c84a635b39bed4107233538926c7b51&timestamp=1476448631&nonce=1054364297&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=204088741c360d5fa7f03a1fc268d00ed12712aa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T20:37:17+08:00 ] 182.254.86.143 /singcms/index.php?home&signature=5ffa574a329928c9ce9b3a666f1cf887292e8f46&timestamp=1476448637&nonce=2062598117&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=bc8d6f9c65ebb0606120251900177ee3f22bf119
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T20:37:28+08:00 ] 182.254.86.158 /singcms/index.php?home&signature=17214b8181cc2e8085e9895f8db7e4ff0bf2975d&timestamp=1476448648&nonce=87084167&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=5352e79647bd7ebbf2d648ffd776506d52c2fa46
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 238 行.
+NOTIC: [2] curl_error(): 1 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 252 行.
+NOTIC: [2] curl_error(): 2 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000100s ]
+
+[ 2016-10-14T20:37:30+08:00 ] 182.254.86.143 /singcms/index.php?home&signature=5eb92ef7f8bf6e7871225c9628150066b8e53dc5&timestamp=1476448650&nonce=2085525118&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=62112af1b9e822c29df0a63168b9f3898b77c49c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T20:38:06+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000052s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001384s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001418s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2016-10-14T20:38:25+08:00 ] 182.254.86.153 /singcms/index.php?home&signature=c3f554d78bcae201d2d9ae71d88268d300888cb3&timestamp=1476448705&nonce=1978083190&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=fbd837588180b0eac474624370ef972e6dc8addf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T20:39:23+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001463s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001492s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000040s ]
+
+[ 2016-10-14T20:39:40+08:00 ] 101.226.103.69 /singcms/index.php?home&signature=52756129ff47f8a17302c843df712354596f47b6&echostr=8823960000459824892&timestamp=1476448780&nonce=2135853595
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+
+[ 2016-10-14T20:39:44+08:00 ] 182.254.86.153 /singcms/index.php?home&signature=02511246b838187bc4b886f064bda527d50d6259&timestamp=1476448784&nonce=1146053727&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=0e4cb4ea042872b17d60896760530812b71ca500
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T20:39:49+08:00 ] 182.254.86.143 /singcms/index.php?home&signature=0b446f1bff5281a88b9e019997148123274a09b7&timestamp=1476448789&nonce=1221646840&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=926c912ed1c6dc76e9e205b455b110e32c1f5dfb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T20:39:57+08:00 ] 182.254.86.148 /singcms/index.php?home&signature=401ff3b92293699f315f7793aad618252ad36500&timestamp=1476448796&nonce=253791670&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=5d7264defcf1bb89c65020bae88f08d889fb4c67
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+NOTIC: [8] Undefined index: access_token /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 238 行.
+NOTIC: [2] curl_error(): 1 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+NOTIC: [8] Array to string conversion /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 252 行.
+NOTIC: [2] curl_error(): 2 is not a valid cURL handle resource /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 187 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000098s ]
+
+[ 2016-10-14T20:40:01+08:00 ] 182.254.86.143 /singcms/index.php?home&signature=22639a1d5b84f7535f2ed6495adcb9d2140749de&timestamp=1476448801&nonce=2140765754&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=48c44cbfa4a9592750ead459ffa9e4c935897430
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T20:40:50+08:00 ] 14.17.11.196 /singcms/index.php/home/index/signup?nsukey=QPdZi8Pd4zr%2B1Xd1LP4bx195Kp%2BAcGeWz%2BsjSy0o2VCcQMsBDQC1ONxIOCEhrL4FqBQoo8slpTfMLRJdXL4ec4yAseV%2BL14d4wtTSuM0J0NQk5Tw4LOqgdKLNE6PgpcBNbcUtixCALkE7%2BDvfQZjxgkiaRq3cYaUJJ%2BIFTDVjeLTD5VrOvnBp2JoXzbza6lP
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001343s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001371s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000042s ]
+
+[ 2016-10-14T20:40:50+08:00 ] 14.17.37.161 /singcms/index.php/home/index/signup?nsukey=QPdZi8Pd4zr%2B1Xd1LP4bx195Kp%2BAcGeWz%2BsjSy0o2VCcQMsBDQC1ONxIOCEhrL4FqBQoo8slpTfMLRJdXL4ec4yAseV%2BL14d4wtTSuM0J0NQk5Tw4LOqgdKLNE6PgpcBNbcUtixCALkE7%2BDvfQZjxgkiaRq3cYaUJJ%2BIFTDVjeLTD5VrOvnBp2JoXzbza6lP
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001331s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000037s ]
+
+[ 2016-10-14T20:40:51+08:00 ] 183.6.159.64 /singcms/index.php/home/index/signup?nsukey=QPdZi8Pd4zr%2B1Xd1LP4bx195Kp%2BAcGeWz%2BsjSy0o2VCcQMsBDQC1ONxIOCEhrL4FqBQoo8slpTfMLRJdXL4ec4yAseV%2BL14d4wtTSuM0J0NQk5Tw4LOqgdKLNE6PgpcBNbcUtixCALkE7%2BDvfQZjxgkiaRq3cYaUJJ%2BIFTDVjeLTD5VrOvnBp2JoXzbza6lP
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000059s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001327s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001355s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000048s ]
+
+[ 2016-10-14T20:41:18+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup?nsukey=QPdZi8Pd4zr%2B1Xd1LP4bx195Kp%2BAcGeWz%2BsjSy0o2VCcQMsBDQC1ONxIOCEhrL4FqBQoo8slpTfMLRJdXL4ec4yAseV%2BL14d4wtTSuM0J0NQk5Tw4LOqgdKLNE6PgpcBNbcUtixCALkE7%2BDvfQZjxgkiaRq3cYaUJJ%2BIFTDVjeLTD5VrOvnBp2JoXzbza6lP
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001457s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2016-10-14T20:41:49+08:00 ] 182.254.86.143 /singcms/index.php?home&signature=1461f4372c636791b47f7bc06eb44c070e905f12&timestamp=1476448909&nonce=2000399305&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=c5467a689b5019a688f12ef69a86521e1cea33c8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T20:43:42+08:00 ] 101.226.99.197 /singcms/index.php/home/index/signup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000064s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001567s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001595s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2016-10-14T20:43:50+08:00 ] 180.153.214.200 /singcms/index.php/home/index/signup?nsukey=QPdZi8Pd4zr%2B1Xd1LP4bx195Kp%2BAcGeWz%2BsjSy0o2VCcQMsBDQC1ONxIOCEhrL4FqBQoo8slpTfMLRJdXL4ec4yAseV%2BL14d4wtTSuM0J0NQk5Tw4LOqgdKLNE6PgpcBNbcUtixCALkE7%2BDvfQZjxgkiaRq3cYaUJJ%2BIFTDVjeLTD5VrOvnBp2JoXzbza6lP
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000026s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001399s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001427s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000040s ]
+
+[ 2016-10-14T20:43:51+08:00 ] 101.226.33.205 /singcms/index.php/home/index/signup?nsukey=QPdZi8Pd4zr%2B1Xd1LP4bx195Kp%2BAcGeWz%2BsjSy0o2VCcQMsBDQC1ONxIOCEhrL4FqBQoo8slpTfMLRJdXL4ec4yAseV%2BL14d4wtTSuM0J0NQk5Tw4LOqgdKLNE6PgpcBNbcUtixCALkE7%2BDvfQZjxgkiaRq3cYaUJJ%2BIFTDVjeLTD5VrOvnBp2JoXzbza6lP
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003280s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003312s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000039s ]
+
+[ 2016-10-14T20:45:54+08:00 ] 58.247.206.150 /singcms/index.php?home&signature=1ec7459c951514a5df77204891b510bfb2352e7a&echostr=3767839445799524314&timestamp=1476449154&nonce=1020738662
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+
+[ 2016-10-14T20:46:07+08:00 ] 182.254.86.148 /singcms/index.php?home&signature=d209331add062ad1b82bd1dcd6951f01cb044c98&timestamp=1476449167&nonce=1131356028&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=a3d8c2074a92e9f2f74bc03fc8efd3deb8bae725
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T20:46:12+08:00 ] 182.254.86.148 /singcms/index.php?home&signature=b3565abdf868f65fd6efbb9a8dd27e4354f7e183&timestamp=1476449172&nonce=1593953776&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=fa89724c7d552e665d8dd60d98179b0d416e1394
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T20:46:18+08:00 ] 182.254.86.143 /singcms/index.php?home&signature=8536df040ed5791b29397d07c328aadd0b9659d8&timestamp=1476449178&nonce=1623173441&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=5264919a2676722e27079402f1e1924474ac6e05
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T20:46:25+08:00 ] 182.254.86.148 /singcms/index.php?home&signature=f43776d0471009bc75c187c2b9d86d1ed4bab158&timestamp=1476449185&nonce=1327092236&openid=okIYdw_7fZAjxv53mPS0TC0NRDLU&encrypt_type=aes&msg_signature=69bb8ce82978af2f943be46bb7ea6805d43fcc2c
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+NOTIC: [8] Undefined index: echostr /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 23 行.
+
+[ 2016-10-14T20:46:27+08:00 ] 14.17.44.217 /singcms/index.php/home/index/signup?nsukey=wcXevPxGhmu61lws7eU657Np496XvNl0w10bSENFnlWOIMEaSu1EgL0LK6oZRgvlDsX0%2FI4%2FAG%2FaXnH7t0CbAgJV1iV07iPicItiiq%2FK6IIgy3oT0%2BG3YN09ZJ6KQWf0Y47ZUqU4mSFGaN8Jvizuh3SkWkZ4Hz8otoXcQYSbqYg%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001338s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001364s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2016-10-14T20:46:27+08:00 ] 14.17.34.237 /singcms/index.php/home/index/signup?nsukey=wcXevPxGhmu61lws7eU657Np496XvNl0w10bSENFnlWOIMEaSu1EgL0LK6oZRgvlDsX0%2FI4%2FAG%2FaXnH7t0CbAgJV1iV07iPicItiiq%2FK6IIgy3oT0%2BG3YN09ZJ6KQWf0Y47ZUqU4mSFGaN8Jvizuh3SkWkZ4Hz8otoXcQYSbqYg%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 0 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000054s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001336s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001365s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000039s ]
+
+[ 2016-10-14T20:46:28+08:00 ] 183.6.159.231 /singcms/index.php/home/index/signup?nsukey=wcXevPxGhmu61lws7eU657Np496XvNl0w10bSENFnlWOIMEaSu1EgL0LK6oZRgvlDsX0%2FI4%2FAG%2FaXnH7t0CbAgJV1iV07iPicItiiq%2FK6IIgy3oT0%2BG3YN09ZJ6KQWf0Y47ZUqU4mSFGaN8Jvizuh3SkWkZ4Hz8otoXcQYSbqYg%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001442s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000042s ]
+
+[ 2016-10-14T20:49:27+08:00 ] 101.226.99.195 /singcms/index.php/home/index/signup?nsukey=wcXevPxGhmu61lws7eU657Np496XvNl0w10bSENFnlWOIMEaSu1EgL0LK6oZRgvlDsX0%2FI4%2FAG%2FaXnH7t0CbAgJV1iV07iPicItiiq%2FK6IIgy3oT0%2BG3YN09ZJ6KQWf0Y47ZUqU4mSFGaN8Jvizuh3SkWkZ4Hz8otoXcQYSbqYg%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000062s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000048s ]
+
+[ 2016-10-14T20:49:27+08:00 ] 61.151.218.118 /singcms/index.php/home/index/signup?nsukey=wcXevPxGhmu61lws7eU657Np496XvNl0w10bSENFnlWOIMEaSu1EgL0LK6oZRgvlDsX0%2FI4%2FAG%2FaXnH7t0CbAgJV1iV07iPicItiiq%2FK6IIgy3oT0%2BG3YN09ZJ6KQWf0Y47ZUqU4mSFGaN8Jvizuh3SkWkZ4Hz8otoXcQYSbqYg%3D
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') /var/www/html/singcms/Application/Home/Controller/IndexController.class.php 第 305 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000027s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000055s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001434s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001465s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000044s ]
+

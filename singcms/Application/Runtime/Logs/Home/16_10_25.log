@@ -1,0 +1,4 @@
+[ 2016-10-25T11:54:55+08:00 ] 180.153.163.190 /singcms/index.php/home/index/getWebAccessToken
+ERR: 1048:Column 'id' cannot be null
+ [ SQL语句 ] : INSERT INTO `yingchao_user_wx` (`id`) VALUES (NULL)
+

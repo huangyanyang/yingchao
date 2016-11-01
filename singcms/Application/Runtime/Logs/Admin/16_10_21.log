@@ -1,0 +1,14 @@
+[ 2016-10-21T14:01:37+08:00 ] 183.43.34.44 /singcms/admin.php/admin/index/signin.css
+ERR: 非法操作:signin.css
+
+[ 2016-10-21T14:02:16+08:00 ] 183.43.34.44 /singcms/index.php?m=admin&c=login&a=check
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+SQL: SHOW COLUMNS FROM `yingchao_admin_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `yingchao_admin_user` WHERE ( username="yingchaofuwu" ) LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-10-21T15:13:42+08:00 ] 183.43.34.44 /singcms/admin.php/admin/index/export_excel
+ERR: 1146:Table 'yingchaofuwu.yingchao_phpexcel' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `yingchao_phpexcel`
+
